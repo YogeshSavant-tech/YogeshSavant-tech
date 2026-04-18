@@ -18,7 +18,7 @@
 ## ◈ About
 
 ```ts
-const raj = {
+const yogesh = {
   name:       "Yogesh Savant",
   location:   "Pune, India 🇮🇳",
   education:  "B.E. Information Technology — DIT Pune ",
@@ -105,12 +105,6 @@ Full-featured e-commerce app with product catalog, cart, user auth, and admin da
 </td>
 <td width="50%">
 
-### [Binary Brains Club](https://github.com/RajBhokare) — Club Website
-**Role:** Web Developer &nbsp;|&nbsp; **Type:** Club Project
-
-Responsive club website built with the Binary Brains team at DIT Pune, using Git for collaborative version control.
-
-`HTML` `CSS` `JavaScript` `Git`
 
 </td>
 </tr>
@@ -122,13 +116,13 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajBhokare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&icon_color=7c3aed&text_color=a0c4d8&border_radius=4" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YogeshSavant-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&icon_color=7c3aed&text_color=a0c4d8&border_radius=4" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhokare&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&text_color=a0c4d8&border_radius=4" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSavant-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&text_color=a0c4d8&border_radius=4" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajBhokare&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0c4d8&dates=4a6475"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshSavant-tech&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0c4d8&dates=4a6475"/>
 
 </div>
 
@@ -139,9 +133,9 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Solver-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-Practice-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![GFG](https://www.geeksforgeeks.org/profile/yogeshsa3ua0?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 
-**Topics covered:** Arrays · Strings · Two Pointers · Sliding Window · Recursion
+
 
 </div>
 
@@ -153,8 +147,8 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Bhokare-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajbhokare1)
-[![Gmail](https://img.shields.io/badge/Gmail-bhokareraj281@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20Savant-b96b08329?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yogesh-savant-b96b08329)
+[![Gmail](https://img.shields.io/badge/Gmail-yogeshsavant121@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
@@ -162,7 +156,7 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 ---
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RajBhokare&label=Profile+Views&color=00d4ff&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=YogeshSavant-tech&label=Profile+Views&color=00d4ff&style=flat-square"/>
 
 <br/><br/>
 
