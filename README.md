@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a0f,50:00d4ff,100:7c3aed&height=200&section=header&text=Raj%20Bhokare&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%40%20DIT%20Pune&descAlignY=60&descColor=a0c4d8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a0f,50:00d4ff,100:7c3aed&height=200&section=header&text=Yogesh%20Savant&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%40%20DIT%20Pune&descAlignY=60&descColor=a0c4d8&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -21,10 +21,10 @@
 const raj = {
   name:       "Yogesh Savant",
   location:   "Pune, India 🇮🇳",
-  education:  "B.E. Information Technology — DIT Pune (CGPA: 9.77)",
+  education:  "B.E. Information Technology — DIT Pune ",
   role:       "Full Stack Developer",
-  currently:  ["Building IndiaKart (E-Commerce)", "Solving DSA daily", "Web Dev @ Binary Brains Club"],
-  contact:    "yogesh@gmail.com",
+
+  contact:    "yogeshsavant121@gmail.com",
   openTo:     "Internships & Full-time roles",
 };
 ```
@@ -154,7 +154,7 @@ Responsive club website built with the Binary Brains team at DIT Pune, using Git
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Bhokare-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajbhokare1)
-[![Gmail](https://img.shields.io/badge/Gmail-bhokareraj281@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhokareraj281@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-bhokareraj281@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
