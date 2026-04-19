@@ -111,6 +111,7 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Solver-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-yogeshsa3ua0?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-yogeshsavant121?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yogeshsavant121)
 
 
 
