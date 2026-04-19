@@ -126,7 +126,7 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20Savant-b96b08329?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yogesh-savant-b96b08329)
-[![Gmail](https://img.shields.io/badge/Gmail-yogeshsavant121@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-yogeshsavant121@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
