@@ -23,8 +23,8 @@ const yogesh = {
   location:   "Pune, India 🇮🇳",
   education:  "B.E. Information Technology — DIT Pune ",
   role:       "Full Stack Developer",
-
-  contact:    "yogeshsavant121@gmail.com",
+  contact:    "8788141049",
+  gmail:      "yogeshsavant121@gmail.com",
   openTo:     "Internships & Full-time roles",
 };
 ```
@@ -73,38 +73,15 @@ const yogesh = {
 <tr>
 <td width="50%">
 
-### [Quizzer](https://quizzer-7t6k.onrender.com) — Video Summarizer & Quiz Generator
+### (https://acesports-ml-fake-news-detection-tool.onrender.com/) — Fake News Detection tool
 **Role:** Frontend Developer &nbsp;|&nbsp; **Type:** Team Project
 
-Responsive quiz & transcript interfaces powered by AssemblyAI for video transcript extraction and AI-generated summaries.
+Build a React-based UI with a news input textarea, submit button, and a result card displaying Fake/Real with confidence %.
 
-`HTML` `CSS` `JavaScript` `EJS` `Bootstrap`
-
-</td>
-<td width="50%">
-
-### [EduQuest](https://sih-project-roan-nine.vercel.app) — Digital Learning Platform
-**Role:** Frontend & Backend Developer &nbsp;|&nbsp; **Type:** Team Project
-
-Educational platform for rural students with responsive UI, Node.js backend, and MySQL database for user & quiz management.
-
-`Node.js` `MySQL` `EJS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [IndiaKart](https://indiakart-beta.vercel.app) — E-Commerce Platform *(Ongoing)*
-**Role:** Full Stack Developer &nbsp;|&nbsp; **Type:** Solo Project
-
-Full-featured e-commerce app with product catalog, cart, user auth, and admin dashboard for managing products, users & orders.
-
-`Node.js` `Express.js` `MySQL` `Tailwind CSS`
+`HTML` `CSS` `JavaScript` 
 
 </td>
 <td width="50%">
-
 
 </td>
 </tr>
@@ -133,7 +110,8 @@ Full-featured e-commerce app with product catalog, cart, user auth, and admin da
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Solver-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GFG](https://www.geeksforgeeks.org/profile/yogeshsa3ua0?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-yogeshsa3ua0?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+
 
 
 
@@ -148,7 +126,7 @@ Full-featured e-commerce app with product catalog, cart, user auth, and admin da
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20Savant-b96b08329?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yogesh-savant-b96b08329)
-[![Gmail](https://img.shields.io/badge/Gmail-yogeshsavant121@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-yogeshsavant121@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
