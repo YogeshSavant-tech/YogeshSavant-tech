@@ -109,7 +109,7 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Solver-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yogesh_Savant/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Daily%20Solver-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yogesh_Savant1232/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-yogeshsa3ua0?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 [![HackerRank](https://img.shields.io/badge/HackerRank-yogeshsavant121?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yogeshsavant121)
 
@@ -128,7 +128,7 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20Savant-b96b08329?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yogesh-savant-b96b08329)
 [![Gmail](https://img.shields.io/badge/Gmail-yogeshsavant121@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsavant121@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yogesh_Savant/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-f7df1e?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yogesh_Savant1232/)
 
 </div>
 
