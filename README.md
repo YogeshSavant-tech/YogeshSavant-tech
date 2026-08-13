@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Node.js+%7C+Express+%7C+MySQL+%7C+JavaScript;Solving+DSA+problems+daily+on+LeetCode;Open+to+internships+%26+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Spring+Boot+%7C+Spring+MVC+%7C+MySQL+%7C+Java;Solving+DSA+problems+daily+on+LeetCode;Open+to+internships+%26+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ const yogesh = {
   education:  "B.E. Information Technology — DIT Pune ",
   role:       "Full Stack Developer",
   contact:    "8788141049",
-  gmail:      "yogeshsavant121@gmail.com",
+  Gmail:      "yogeshsavant121@gmail.com",
   openTo:     "Internships & Full-time roles",
 };
 ```
@@ -42,13 +42,18 @@ const yogesh = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwind-css&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-b4ca65?style=flat-square&logo=ejs&logoColor=black)
 
-**Backend & Database**
+### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-68a063?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Languages**
 
@@ -57,11 +62,23 @@ const yogesh = {
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
-**Tools**
 
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+### Build Tools & DevOps
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### Testing & Security
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square)
 
 </div>
 
@@ -89,21 +106,6 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 
 ---
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YogeshSavant-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&icon_color=7c3aed&text_color=a0c4d8&border_radius=4" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSavant-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&text_color=a0c4d8&border_radius=4" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshSavant-tech&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a0c4d8&dates=4a6475"/>
-
-</div>
-
----
 
 ## ◈ DSA Progress
 
