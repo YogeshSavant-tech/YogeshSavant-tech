@@ -89,17 +89,52 @@ const yogesh = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### (https://acesports-ml-fake-news-detection-tool.onrender.com/) — Fake News Detection tool
-**Role:** Frontend Developer &nbsp;|&nbsp; **Type:** Team Project
+### 🔎 Fake News Detection Tool
 
-Build a React-based UI with a news input textarea, submit button, and a result card displaying Fake/Real with confidence %.
+**Live Demo:** [Fake News Detection Tool](https://acesports-ml-fake-news-detection-tool.onrender.com/)
 
-`HTML` `CSS` `JavaScript` 
+**Role:** Frontend Developer
+**Type:** Team Project
+
+A React-based web application designed to detect whether a given news article or headline is **Fake or Real**. The application provides a simple and user-friendly interface where users can enter news content and view the prediction result along with a confidence score.
+
+**Key Features:**
+
+* 📝 News input textarea
+* 🔍 Fake/Real prediction result
+* 📊 Confidence score display
+* 🎨 Responsive and user-friendly interface
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `React.js`
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application
+
+**Live Demo:** [Real-Time Chat App](https://sb-websocket-real-time-chat-app-production.up.railway.app/chat)
+
+**Role:** Java Backend Developer
+**Type:** Personal Project
+
+A real-time messaging application developed using **Spring Boot WebSocket** technology. The application enables users to exchange messages instantly through a persistent WebSocket connection.
+
+**Key Features:**
+
+* 💬 Real-time messaging
+* ⚡ WebSocket-based communication
+* 🔄 STOMP messaging protocol
+* 🌐 Browser-based chat interface
+* 📱 Responsive user interface
+
+**Technologies:**
+
+`Java` `Spring Boot` `Spring WebSocket` `STOMP` `Spring Web` `HTML5` `CSS3` `Bootstrap 5` `JavaScript`
 
 </td>
 </tr>
@@ -107,19 +142,11 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 
 ---
 
-### (https://sb-websocket-real-time-chat-app-production.up.railway.app/chat) — Real Time Chat App
-**Role:** Java Backend developer &nbsp;|&nbsp; 
 
-SB WebSocket Real-Time Chat App is a real-time messaging application developed using Spring Boot WebSocket technology%.
 
-`HTML5` `Bootstrap 5` `JavaScript` `Spring Boot` `CSS3` `Spring WebSocket` `STOMP` `Spring Web` 
 
-</td>
-<td width="50%">
 
-</td>
-</tr>
-</table>
+
 
 ---
 
