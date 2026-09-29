@@ -107,6 +107,22 @@ Build a React-based UI with a news input textarea, submit button, and a result c
 
 ---
 
+### (https://sb-websocket-real-time-chat-app-production.up.railway.app/chat) — Real Time Chat App
+**Role:** Java Backend developer &nbsp;|&nbsp; 
+
+SB WebSocket Real-Time Chat App is a real-time messaging application developed using Spring Boot WebSocket technology%.
+
+`HTML5` `Bootstrap 5` `JavaScript` `Spring Boot` `CSS3` `Spring WebSocket` `STOMP` `Spring Web` 
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ## ◈ DSA Progress
 
